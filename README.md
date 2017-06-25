@@ -16,5 +16,5 @@ This tool is made in Python 2.7 compiled using pyinstaller for Windows OS. Nothi
 ## Screenshot
 
 <p align="center">
-  <img width="360" height="200" src="https://github.com/roothaxor/Exif-Remove/blob/master/Screenshot.png">
+  <img width="460" height="250" src="https://github.com/roothaxor/Exif-Remove/blob/master/Screenshot.png">
 </p>
