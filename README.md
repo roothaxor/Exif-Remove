@@ -13,8 +13,7 @@ This tool is made in Python 2.7 compiled using pyinstaller for Windows OS. Nothi
 * Write `exif` and press `ENTER KEY`
 > It'll regenerate the image files without exif data and save them, also auto delete the files with exif data
 
-## Screenshot
-
+### In work !
 <p align="center">
-  <img width="460" height="250" src="https://github.com/roothaxor/Exif-Remove/blob/master/Screenshot.png">
+  <img src="exif_example.gif">
 </p>
