@@ -2,8 +2,9 @@
 This tool is made in Python 2.7 compiled using pyinstaller for Windows OS. Nothing is special about this tool it just ease the work for me, maybe will for you too
 #### For what reason  ?
 > Exif is `Metadata` stored in hidden in your pictures. Many well-intentioned people unwittingly `expose personal information` that is embedded in the metadata of those digital pictures. To better protect your online `confidentiality`, it is crucial to remove exif data. 
-#### Changelog ( v.1.2 ) 
+#### Changelog ( v.1.0.3 ) 
 > Tool will check if exif data is already removed ( identifies using `ex_` string in filenames )
+> Issues fixed - Single thread worker
 
 ## Installation instructions
 
