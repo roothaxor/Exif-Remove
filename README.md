@@ -1,6 +1,6 @@
 ## Command Line Tool- Remove Exif Data With Ease
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/roothaxor/Exif-Remove)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/roothaxor/Exif-Remove)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](http://twitter.com/home?status=This%20is%20the%20simplest%20windows%20tool%20to%20remove%20exif%20data%20from%20many%20files%20at%20once%20by%20@root_haxor%20https://github.com/roothaxor/Exif-Remove)
 
 
 This tool is made in Python 2.7 compiled using pyinstaller for Windows OS. Nothing is special about this tool it just ease the work for me, maybe will for you too
