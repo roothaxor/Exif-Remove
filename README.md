@@ -1,4 +1,8 @@
 ## Command Line Tool- Remove Exif Data With Ease
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/roothaxor/Exif-Remove)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/roothaxor/Exif-Remove)
+
+
 This tool is made in Python 2.7 compiled using pyinstaller for Windows OS. Nothing is special about this tool it just ease the work for me, maybe will for you too
 #### For what reason  ?
 > Exif is `Metadata` stored in hidden in your pictures. Many well-intentioned people unwittingly `expose personal information` that is embedded in the metadata of those digital pictures. To better protect your online `confidentiality`, it is crucial to remove exif data. 
